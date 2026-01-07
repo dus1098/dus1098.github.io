@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on My New Hugo Site</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>첫 글</title>
+      <link>http://localhost:1313/notes/hello/</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/hello/</guid>
+      <description>&lt;h1 id=&#34;안녕-hugo&#34;&gt;안녕, Hugo&lt;/h1&gt;
+&lt;p&gt;이게 첫 게시글입니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;목록도 되고&lt;/li&gt;
+&lt;li&gt;코드도 됩니다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-csharp&#34; data-lang=&#34;csharp&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello Hugo&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;- &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;`&lt;/span&gt;draft: &lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;`&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;는&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;초안이라서&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;“배포엔&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;안&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;나오고&lt;/span&gt;, &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;로컬&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;미리보기엔&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;나오게”&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;쓰는&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;용도입니다&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;##&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt;) &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;“게시글이&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;어떻게&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;보이는지”&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;확인하는&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;법&lt;/span&gt; (&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;로컬&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;미리보기&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;VS Code &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;터미널에서&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;프로젝트&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;루트에서&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;실행&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;```&lt;/span&gt;bash
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo server -D
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
